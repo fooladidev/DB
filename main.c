@@ -6,6 +6,7 @@
 #include "db.h"
 char name[]="student";
 
+
 int separatee(char str[],char arr[][20]){
     int i = 0;
     char s[2]=" ";
