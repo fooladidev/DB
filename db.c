@@ -2,6 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 
+
 char integer[]="INT";
 char text[]="TEXT";
 char flo[]="FLOAT";
